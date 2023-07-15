@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Safin Ahmed Hasan
+#### A passionate Full Stack Developer from Bangladesh
+![A passionate Full Stack Developer from Bangladesh](https://i.ibb.co/QfGmThx/Black-Modern-Business-Facebook-Cover.png)
+
+Highly motivated Junior Web Developer with experience in building and maintaining web 
+applications. Proficient in HTML, CSS, JavaScript, React, and Node.js with expertise in MVC 
+frameworks like Express. Seeking to join a dynamic team where I can utilize my skills to help drive the 
+success of the organization.
+
+Skills: HTML / CSS/ JavaScript / react js / Node.js / express js / MongoDB / bootstrap / Tailwindcss   
+
+- 🔭 I’m currently working on this page. 
 
 
-**Safinahmedhasan/Safinahmedhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
