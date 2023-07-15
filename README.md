@@ -9,7 +9,6 @@ success of the organization.
 
 Skills: HTML / CSS/ JavaScript / react js / Node.js / express js / MongoDB / bootstrap / Tailwindcss   
 
-- 🔭 I’m currently working on this page. 
 
 
 
