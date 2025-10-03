@@ -16,8 +16,3 @@ Skills: HTML / CSS/ JavaScript / react js / Node.js / express js / MongoDB / boo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Safinahmedhasan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Safinahmedhasan)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Safinahmedhasan)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/Safinahmedhasan)  
