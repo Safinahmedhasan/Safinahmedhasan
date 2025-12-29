@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi, I'm **Safin Ahmed Hasan**
+## 👋 Hi, I'm **Md Hasan Ali**
 
 ### 🚀 Full-Stack Developer | MERN Stack | Laravel | WordPress | Mobile Apps
 
